@@ -6,6 +6,7 @@
   * Publication:
      * https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-01/06-COVID-Shimabukuro.pdf
      * VAERS related publications: https://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vaers/publications.html
+     * Proportional Reporting Ratio (PRR): https://en.wikipedia.org/wiki/Proportional_reporting_ratio
   
 ## CDC COVID-data-tracker
   * https://covid.cdc.gov/covid-data-tracker/#vaccinations
