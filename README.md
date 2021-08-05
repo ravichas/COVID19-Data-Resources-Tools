@@ -5,6 +5,7 @@
   * https://vaers.hhs.gov/data/datasets.html
   * Publication:
      * https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-01/06-COVID-Shimabukuro.pdf
+     * VAERS related publications: https://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vaers/publications.html
   
 ## CDC COVID-data-tracker
   * https://covid.cdc.gov/covid-data-tracker/#vaccinations
