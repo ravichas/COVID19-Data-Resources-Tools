@@ -3,6 +3,8 @@
 ## 08/05/2021
 ## VAERS data for vaccine PRR reporting
   * https://vaers.hhs.gov/data/datasets.html
+  * Publication:
+     * https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-01/06-COVID-Shimabukuro.pdf
   
 ## CDC COVID-data-tracker
   * https://covid.cdc.gov/covid-data-tracker/#vaccinations
