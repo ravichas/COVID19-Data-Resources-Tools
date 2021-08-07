@@ -28,6 +28,10 @@ Common issues in data scrapping:
   * streamlining automatic data download
   * data misalignment  
 
-08/06
+## 08/06
 
-* COVID-19 Open Data Access: https://github.com/GoogleCloudPlatform/covid-19-open-data
+ * COVID-19 Open Data Access: https://github.com/GoogleCloudPlatform/covid-19-open-data
+
+## RWD/RWE
+ * RWE: https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence
+ * Examples of RWD/E: https://www.fda.gov/media/146258/download
