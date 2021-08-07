@@ -27,3 +27,7 @@
 Common issues in data scrapping:
   * streamlining automatic data download
   * data misalignment  
+
+08/06
+
+* COVID-19 Open Data Access: https://github.com/GoogleCloudPlatform/covid-19-open-data
