@@ -35,3 +35,6 @@ Common issues in data scrapping:
 ## RWD/RWE
  * RWE: https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence
  * Examples of RWD/E: https://www.fda.gov/media/146258/download
+
+R/Python packages
+ * https://cran.r-project.org/web/packages/psrwe/index.html
