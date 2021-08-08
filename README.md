@@ -3,7 +3,7 @@
 **FDA Definitions:**
 
 * **RWD:** *"Data relating to patient health status and/or the delivery of health care routinely collected from a variety of sources."*
-* **RWE:** *"Clinical evidence about the usage and potential benefits of risks of a medical product derived from analysis of RWD"
+* **RWE:** *"Clinical evidence about the usage and potential benefits of risks of a medical product derived from analysis of RWD."*
 
 
 # DBs 
