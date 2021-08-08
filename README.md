@@ -5,10 +5,22 @@
 * **RWD:** *"Data relating to patient health status and/or the delivery of health care routinely collected from a variety of sources."*
 * **RWE:** *"Clinical evidence about the usage and potential benefits of risks of a medical product derived from analysis of RWD."*
 
+## Why focus on RWD/RWE? 
+* New technology that generates lots of data 
+* RWE complements and augments RCT 
+* Unlike RCT, there are no exclusions 
+* Capture diverse patient population 
+* No protocols but follows people in real-life 
+
+## Differences between RCT and RWD/E
+*  No randomization
+*  No blinded treatment
+*  Diverse patients
+*  Everyday life environment
+*  approved/existing drug combination effects
 
 # DBs 
 
-## 08/05/2021
 ## VAERS data for vaccine PRR reporting
   * https://vaers.hhs.gov/data/datasets.html
   * Publication:
@@ -35,10 +47,7 @@
 Common issues in data scrapping:
   * streamlining automatic data download
   * data misalignment  
-
-## 08/06
-
- * COVID-19 Open Data Access: https://github.com/GoogleCloudPlatform/covid-19-open-data
+  * COVID-19 Open Data Access: https://github.com/GoogleCloudPlatform/covid-19-open-data
 
 ## RWD/RWE
  * RWE: https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence
