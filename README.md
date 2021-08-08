@@ -19,6 +19,10 @@
 *  Everyday life environment
 *  approved/existing drug combination effects
 
+## References: 
+ * RWE: https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence
+ * Examples of RWD/E: https://www.fda.gov/media/146258/download
+
 # DBs 
 
 ## VAERS data for vaccine PRR reporting
@@ -48,10 +52,6 @@ Common issues in data scrapping:
   * streamlining automatic data download
   * data misalignment  
   * COVID-19 Open Data Access: https://github.com/GoogleCloudPlatform/covid-19-open-data
-
-## RWD/RWE
- * RWE: https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence
- * Examples of RWD/E: https://www.fda.gov/media/146258/download
 
 ## R/Python packages
  * https://cran.r-project.org/web/packages/psrwe/index.html
