@@ -36,5 +36,9 @@ Common issues in data scrapping:
  * RWE: https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence
  * Examples of RWD/E: https://www.fda.gov/media/146258/download
 
-R/Python packages
+## R/Python packages
  * https://cran.r-project.org/web/packages/psrwe/index.html
+
+## Interesting websites:
+ * Duke: https://healthpolicy.duke.edu/events/introduction-real-world-data-real-world-evidence-virtual-training-series-patient-community 
+ * 
