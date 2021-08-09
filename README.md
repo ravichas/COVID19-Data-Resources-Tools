@@ -25,7 +25,7 @@
 
 ## Information/sources of RWD: 
 * Vs: Volume, Velocity (coming in quickly), Variety (of sources), Veracity, Value, Variability, Visualization and Virality (learning), Virtual (?)
-* Outpatients visit data or provider data; emergency patient visits; pharmacy data etc. 
+* Outpatients visit data or provider data; emergency patient visits; medicare data; pharmacy data etc. 
   * Unit of analysis: person-level, provider-level, or prescription level or region-level (state, country, or other smaller units)
 
 # DBs 
