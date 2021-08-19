@@ -63,4 +63,18 @@ Common issues in data scrapping:
 
 ## Interesting websites:
  * Duke: https://healthpolicy.duke.edu/events/introduction-real-world-data-real-world-evidence-virtual-training-series-patient-community 
- * 
+
+
+08/19 Brandon Webb 
+## Monoclonal Antibody (MAbs) Efficacy and Safety
+BLAZE-1 and SPIKE 
+
+* What are Mabs?
+* Logistical Challenges in using Mabs
+  * common barriers
+  * Delivery Options
+* Patient Selection/identification
+* https://coronovirus.utah.gov/noveltherapeutics/
+
+
+
