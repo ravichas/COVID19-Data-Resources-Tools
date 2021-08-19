@@ -4,6 +4,7 @@
 
 * **RWD:** *"Data relating to patient health status and/or the delivery of health care routinely collected from a variety of sources."*
 * **RWE:** *"Clinical evidence about the usage and potential benefits of risks of a medical product derived from analysis of RWD."*
+* **EUA:** *"Emergency Use Authorization"*
 
 ## Why focus on RWD/RWE? 
 * New technology that generates lots of data 
@@ -76,5 +77,7 @@ BLAZE-1 and SPIKE
 * Patient Selection/identification
 * https://coronovirus.utah.gov/noveltherapeutics/
 
+## Data handline of mAB
+(Ravi Ganesh)
 
 
